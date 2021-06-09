@@ -1,0 +1,10 @@
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\bin\Debug\lab18.exe.config
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\bin\Debug\lab18.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\bin\Debug\lab18.pdb
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\obj\Debug\lab18.csprojAssemblyReference.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\obj\Debug\lab18.Form1.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\obj\Debug\lab18.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\obj\Debug\lab18.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\obj\Debug\lab18.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\obj\Debug\lab18.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab18\lab18\lab18\obj\Debug\lab18.pdb
